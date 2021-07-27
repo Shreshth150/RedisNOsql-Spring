@@ -1,0 +1,57 @@
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{
+  "id": "1",
+  "firstName": "John",
+  "lastName": "Doe",
+  "emailId": "john@email.com",
+  "age": "21"
+}
+
+
+###
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{
+  "id": "2",
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "emailId": "jane@email.com",
+  "age": "22"
+}
+###
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{
+  "id": "3",
+  "firstName": "Mike",
+  "lastName": "Doe",
+  "emailId": "mike@email.com",
+  "age": "23"
+}
+###
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{
+  "id": "4",
+  "firstName": "Sonu",
+  "lastName": "Doe",
+  "emailId": "sonu@email.com",
+  "age": "24"
+}
+###
+POST http://localhost:8080/user
+Content-Type: application/json
+
+{
+  "id": "5",
+  "firstName": "Nishant",
+  "lastName": "Doe",
+  "emailId": "nishant@email.com",
+  "age": "25"
+}
+
